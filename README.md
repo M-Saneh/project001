@@ -1,15 +1,1 @@
-Introduction:
-Welcome to the Snake Water Gun Game! This is a fun, command-line game written in Python. It's a twist on the classic "Rock Paper Scissors" game, where you get to play against the computer.
-
-The rules are simple:
-
-Snake drinks Water (so Snake wins).
-Water douses the Gun (Water wins).
-Gun shoots the Snake (Gun wins).
-If you and the computer both pick the same option, it’s a tie!
-
-How to Play
-Snake beats Water.
-Water beats Gun.
-Gun beats Snake.
-If both choices are the same, it’s a draw!
+This small program ask user of his name and age in character and number respectively ,but if the user tries to input his name beside character so an error is shown to him and is told to enter his name in character. The same applies to age if the user input the age character etc instead of numbers only so an error is shown to him
