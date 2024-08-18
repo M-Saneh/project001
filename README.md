@@ -1,4 +1,4 @@
-Introduction
+Introduction:
 Welcome to the Snake Water Gun Game! This is a fun, command-line game written in Python. It's a twist on the classic "Rock Paper Scissors" game, where you get to play against the computer.
 
 The rules are simple:
